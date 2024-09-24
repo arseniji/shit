@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Lab2_shian
+namespace Lab2_Shiyan
 {
     internal class Program
     {
@@ -23,32 +23,32 @@ namespace Lab2_shian
             }
             public Complex Sum(Complex other)
             {
-                Complex ans = new Complex();
-                ans.re = this.re + other.re;
-                ans.im = this.im + other.im;
-                return ans;
+                Complex sum = new Complex();
+                sum.re = this.re + other.re;
+                sum.im = this.im + other.im;
+                return sum;
             }
             public Complex Sub(Complex other)
             {
-                Complex ans = new Complex();
-                ans.re = this.re - other.re;
-                ans.re = this.im - other.im;
-                return ans;
+                Complex sub = new Complex();
+                sub.re = this.re - other.re;
+                sub.re = this.im - other.im;
+                return sub;
             }
             public Complex Mult(Complex other)
             {
 
-                Complex ans = new Complex();
-                ans.re = this.re * other.re - this.im * other.im;
-                ans.im = this.im * other.re + this.re * other.im;
-                return ans;
+                Complex mult = new Complex();
+                mult.re = this.re * other.re - this.im * other.im;
+                mult.im = this.im * other.re + this.re * other.im;
+                return mult;
             }
             public Complex Div(Complex other)
             {
-                Complex ans = new Complex();
-                ans.re = (this.re * other.re + this.im * other.im) / (other.re * other.re + other.im * other.im);
-                ans.im = (this.im * other.re - this.re * other.im) / (other.re * other.re + other.im * other.im);
-                return ans;
+                Complex div = new Complex();
+                div.re = (this.re * other.re + this.im * other.im) / (other.re * other.re + other.im * other.im);
+                div.im = (this.im * other.re - this.re * other.im) / (other.re * other.re + other.im * other.im);
+                return div;
             }
             public double AbsoluteVal()
             {
@@ -144,16 +144,17 @@ namespace Lab2_shian
                         flag = true;
                         break;
                     case '1':
-                        if (flag == true)
+                        if (flag)
                         {
                             thirdNum = firstNum.Sum(secondNum);
                             Console.WriteLine($"Answer is ");
                             thirdNum.Print();
+                            break;
                         }
-                        else { Console.WriteLine("No numbers"); }
+                        Console.WriteLine("No numbers");
                         break;
                     case '2':
-                        if (flag == true)
+                        if (flag)
                         {
                             thirdNum = firstNum.Sub(secondNum);
                             Console.WriteLine($"Answer is ");
