@@ -1,0 +1,2 @@
+C:\Users\Крутой\source\repos\Lab3_KAiSD\sorts\obj\Debug\sorts.csproj.AssemblyReference.cache
+C:\Users\Крутой\source\repos\Lab3_KAiSD\sorts\obj\Debug\sorts.csproj.CoreCompileInputs.cache
