@@ -1,0 +1,14 @@
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\bin\Debug\net8.0\KAiSD4ex.exe
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\bin\Debug\net8.0\KAiSD4ex.deps.json
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\bin\Debug\net8.0\KAiSD4ex.runtimeconfig.json
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\bin\Debug\net8.0\KAiSD4ex.dll
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\bin\Debug\net8.0\KAiSD4ex.pdb
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.AssemblyInfoInputs.cache
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.AssemblyInfo.cs
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.csproj.CoreCompileInputs.cache
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.dll
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\refint\KAiSD4ex.dll
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.pdb
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\KAiSD4ex.genruntimeconfig.cache
+C:\Users\Крутой\source\repos\KAiSD4ex\KAiSD4ex\obj\Debug\net8.0\ref\KAiSD4ex.dll
