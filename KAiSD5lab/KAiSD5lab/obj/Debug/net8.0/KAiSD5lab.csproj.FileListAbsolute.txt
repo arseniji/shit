@@ -1,0 +1,14 @@
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.AssemblyInfoInputs.cache
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.AssemblyInfo.cs
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.csproj.CoreCompileInputs.cache
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\bin\Debug\net8.0\KAiSD5lab.exe
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\bin\Debug\net8.0\KAiSD5lab.deps.json
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\bin\Debug\net8.0\KAiSD5lab.runtimeconfig.json
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\bin\Debug\net8.0\KAiSD5lab.dll
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\bin\Debug\net8.0\KAiSD5lab.pdb
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.dll
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\refint\KAiSD5lab.dll
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.pdb
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\KAiSD5lab.genruntimeconfig.cache
+C:\Users\Крутой\source\repos\KAiSD5lab\KAiSD5lab\obj\Debug\net8.0\ref\KAiSD5lab.dll

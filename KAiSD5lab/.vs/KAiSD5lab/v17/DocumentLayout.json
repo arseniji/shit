@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisd5lab\\kaisd5lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|solutionrelative:kaisd5lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisd5lab\\kaisd5lab\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|solutionrelative:kaisd5lab\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisd5lab\\kaisd5lab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CCFBAD2-0B4A-4C74-AB8A-C91B7911D457}|KAiSD5lab\\KAiSD5lab.csproj|solutionrelative:kaisd5lab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\Class1.cs",
+              "RelativeDocumentMoniker": "KAiSD5lab\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\Class1.cs",
+              "RelativeToolTip": "KAiSD5lab\\Class1.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAqwLIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T21:41:54.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\input.txt",
+              "RelativeDocumentMoniker": "KAiSD5lab\\input.txt",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\input.txt",
+              "RelativeToolTip": "KAiSD5lab\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-01T20:40:26.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\Program.cs",
+              "RelativeDocumentMoniker": "KAiSD5lab\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD5lab\\KAiSD5lab\\Program.cs",
+              "RelativeToolTip": "KAiSD5lab\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwFQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:39:34.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
