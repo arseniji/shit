@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisdlab7\\kaisdlab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|solutionrelative:kaisdlab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisdlab7\\kaisdlab7\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|solutionrelative:kaisdlab7\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisdlab7\\kaisdlab7\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|solutionrelative:kaisdlab7\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisdlab7\\kaisdlab7\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C32FA245-103F-4C84-9CE1-B093E0A4ABD4}|KAiSDlab7\\KAiSDlab7.csproj|solutionrelative:kaisdlab7\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\output.txt",
+              "RelativeDocumentMoniker": "KAiSDlab7\\output.txt",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\output.txt",
+              "RelativeToolTip": "KAiSDlab7\\output.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T08:32:44.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\Class1.cs",
+              "RelativeDocumentMoniker": "KAiSDlab7\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\Class1.cs",
+              "RelativeToolTip": "KAiSDlab7\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:48:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\Program.cs",
+              "RelativeDocumentMoniker": "KAiSDlab7\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\Program.cs",
+              "RelativeToolTip": "KAiSDlab7\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:48:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\input.txt",
+              "RelativeDocumentMoniker": "KAiSDlab7\\input.txt",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSDlab7\\KAiSDlab7\\input.txt",
+              "RelativeToolTip": "KAiSDlab7\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-03T09:52:18.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
