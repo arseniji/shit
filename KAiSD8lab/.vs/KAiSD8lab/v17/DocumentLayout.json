@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD8lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984B54-1934-4F59-931F-20522FD5DCF6}|KAiSD8lab\\KAiSD8lab.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisd8lab\\kaisd8lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984B54-1934-4F59-931F-20522FD5DCF6}|KAiSD8lab\\KAiSD8lab.csproj|solutionrelative:kaisd8lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D984B54-1934-4F59-931F-20522FD5DCF6}|KAiSD8lab\\KAiSD8lab.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\kaisd8lab\\kaisd8lab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D984B54-1934-4F59-931F-20522FD5DCF6}|KAiSD8lab\\KAiSD8lab.csproj|solutionrelative:kaisd8lab\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD8lab\\KAiSD8lab\\Class1.cs",
+              "RelativeDocumentMoniker": "KAiSD8lab\\Class1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD8lab\\KAiSD8lab\\Class1.cs",
+              "RelativeToolTip": "KAiSD8lab\\Class1.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAAAowEUBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:49:21.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD8lab\\KAiSD8lab\\Program.cs",
+              "RelativeDocumentMoniker": "KAiSD8lab\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\KAiSD8lab\\KAiSD8lab\\Program.cs",
+              "RelativeToolTip": "KAiSD8lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T08:48:23.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
