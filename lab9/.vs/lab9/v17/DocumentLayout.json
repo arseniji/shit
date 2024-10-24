@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|solutionrelative:lab9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|solutionrelative:lab9\\myvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FA0288-F645-41B8-A635-FAB7D83F6D4E}|lab9\\lab9.csproj|solutionrelative:lab9\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyVector.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\MyVector.cs",
+              "RelativeDocumentMoniker": "lab9\\MyVector.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\MyVector.cs",
+              "RelativeToolTip": "lab9\\MyVector.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAmwNwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:59:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\MyStack.cs",
+              "RelativeDocumentMoniker": "lab9\\MyStack.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\MyStack.cs",
+              "RelativeToolTip": "lab9\\MyStack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:58:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\Program.cs",
+              "RelativeDocumentMoniker": "lab9\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\source\\repos\\lab9\\lab9\\Program.cs",
+              "RelativeToolTip": "lab9\\Program.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:57:42.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
