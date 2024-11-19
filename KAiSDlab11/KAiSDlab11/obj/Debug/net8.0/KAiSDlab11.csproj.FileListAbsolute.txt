@@ -1,0 +1,14 @@
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.AssemblyInfoInputs.cache
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.AssemblyInfo.cs
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.csproj.CoreCompileInputs.cache
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\bin\Debug\net8.0\KAiSDlab11.exe
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\bin\Debug\net8.0\KAiSDlab11.deps.json
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\bin\Debug\net8.0\KAiSDlab11.runtimeconfig.json
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\bin\Debug\net8.0\KAiSDlab11.dll
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\bin\Debug\net8.0\KAiSDlab11.pdb
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.dll
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\refint\KAiSDlab11.dll
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.pdb
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\KAiSDlab11.genruntimeconfig.cache
+C:\Users\Крутой\source\repos\KAiSDlab11\KAiSDlab11\obj\Debug\net8.0\ref\KAiSDlab11.dll
