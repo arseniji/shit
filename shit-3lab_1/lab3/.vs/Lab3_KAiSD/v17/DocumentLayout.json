@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\desktop\\shit-3lab_1\\lab3\\lab3_kaisd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|solutionrelative:lab3_kaisd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\desktop\\shit-3lab_1\\lab3\\lab3_kaisd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|solutionrelative:lab3_kaisd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\desktop\\shit-3lab_1\\lab3\\lab3_kaisd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|solutionrelative:lab3_kaisd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\desktop\\shit-3lab_1\\lab3\\lab3_kaisd\\sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|solutionrelative:lab3_kaisd\\sorts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|c:\\users\\\u043A\u0440\u0443\u0442\u043E\u0439\\desktop\\shit-3lab_1\\lab3\\lab3_kaisd\\genmas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B733F855-69BC-4B15-9231-71FE8EA64E91}|Lab3_KAiSD\\Lab3_KAiSD.csproj|solutionrelative:lab3_kaisd\\genmas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_KAiSD\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Form1.cs",
+              "RelativeToolTip": "Lab3_KAiSD\\Form1.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAALAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:19:34.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab3_KAiSD\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Lab3_KAiSD\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:19:23.959Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3_KAiSD\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\Program.cs",
+              "RelativeToolTip": "Lab3_KAiSD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:19:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "genmas.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\genmas.cs",
+              "RelativeDocumentMoniker": "Lab3_KAiSD\\genmas.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\genmas.cs",
+              "RelativeToolTip": "Lab3_KAiSD\\genmas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:18:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sorts.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\sorts.cs",
+              "RelativeDocumentMoniker": "Lab3_KAiSD\\sorts.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0440\u0443\u0442\u043E\u0439\\Desktop\\shit-3lab_1\\lab3\\Lab3_KAiSD\\sorts.cs",
+              "RelativeToolTip": "Lab3_KAiSD\\sorts.cs",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAmwHwBAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:00:54.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
