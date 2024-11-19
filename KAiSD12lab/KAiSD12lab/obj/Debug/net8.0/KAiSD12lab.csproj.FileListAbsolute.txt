@@ -1,0 +1,14 @@
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.AssemblyInfoInputs.cache
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.AssemblyInfo.cs
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.csproj.CoreCompileInputs.cache
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\bin\Debug\net8.0\KAiSD12lab.exe
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\bin\Debug\net8.0\KAiSD12lab.deps.json
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\bin\Debug\net8.0\KAiSD12lab.runtimeconfig.json
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\bin\Debug\net8.0\KAiSD12lab.dll
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\bin\Debug\net8.0\KAiSD12lab.pdb
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.dll
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\refint\KAiSD12lab.dll
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.pdb
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\KAiSD12lab.genruntimeconfig.cache
+C:\Users\Крутой\source\repos\KAiSD12lab\KAiSD12lab\obj\Debug\net8.0\ref\KAiSD12lab.dll
